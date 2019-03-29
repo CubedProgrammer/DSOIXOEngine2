@@ -1,0 +1,1 @@
+cmd.exe /c start java -jar DSOIXOEngine2.exe && exit
